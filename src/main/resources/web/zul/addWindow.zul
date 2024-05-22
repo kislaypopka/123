@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE window PUBLIC "-//ZKoss//DTD ZK 9.6.0//EN" "http://www.zkoss.org/dtd/zk.dtd">
+<window id="addWindow" border="normal" title="Добавить узел">
+    <textbox id="newText" placeholder="Введите текст" />
+    <button id="saveButton" label="Сохранить" />
+</window>

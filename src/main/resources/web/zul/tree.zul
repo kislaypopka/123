@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="treeWindow" title="Дерево" apply="com.example.martController.viewModel.TreeComposerViewModel">
+    <tree id="tree">
+        <treechildren id="rootChildren">
+        </treechildren>
+    </tree>
+    <button id="addButton" label="+" />
+</window>
